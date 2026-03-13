@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <!-- Paths -->
+    <STS2GamePath>C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2</STS2GamePath>
+    <GodotExePath>C:/Users/imawa/Downloads/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64.exe</GodotExePath>
+    
+    <!-- Mod Metadata -->
+    <ModName>TomeMod</ModName>
+    <ModDisplayName>The Tome Mod</ModDisplayName>
+    <ModAuthor>The Filnir</ModAuthor>
+    <ModVersion>0.0.1</ModVersion>
+  </PropertyGroup>
+</Project>

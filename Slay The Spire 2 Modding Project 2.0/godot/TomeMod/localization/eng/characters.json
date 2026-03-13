@@ -1,0 +1,17 @@
+{
+  "TOME.aromaPrinciple": "[sine][blue]Lorem Ipsum...[/blue][/sine]",
+  "TOME.banter.alive.endTurnPing": "[jitter]0x54494D45 0x204C494D 0x49542045 0x58434545 0x00444544[/jitter]",
+  "TOME.banter.dead.endTurnPing": "...",
+  "TOME.cardsModifierDescription": "Placeholder",
+  "TOME.cardsModifierTitle": "Placeholder",
+  "TOME.description": "Placeholder",
+  "TOME.eventDeathPrevention": "Placeholder",
+  "TOME.goldMonologue": "[sine]Placeholder[/sine]",
+  "TOME.possessiveAdjective": "its",
+  "TOME.pronounObject": "it",
+  "TOME.pronounPossessive": "its",
+  "TOME.pronounSubject": "it",
+  "TOME.title": "The Tome",
+  "TOME.titleObject": "The Tome",
+  "TOME.unlockText": "Placeholder"
+}
